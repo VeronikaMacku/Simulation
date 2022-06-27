@@ -1,5 +1,5 @@
 """
-CONWAY'S GAME OF LIFE
+CONWAY'S GAME OF LIFE (cited from: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
 Any live cell with two or three live neighbours lives on to the next generation.
 Any live cell with more than three live neighbours dies, as if by overpopulation.
